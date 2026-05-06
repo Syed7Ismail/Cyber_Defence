@@ -1,0 +1,610 @@
+/* Global Styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000 !important;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+}
+
+/* Navbar Styles */
+.navbar {
+    border: 2px ridge aqua;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+}
+
+.navbar-brand {
+    color: aqua !important;
+    font-size: 1.8rem !important;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.nav-link {
+    color: aqua !important;
+    font-family: sans-serif;
+    font-size: 1.1rem;
+    margin: 0 0.5rem;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.nav-link:hover {
+    border: 2px solid aqua;
+    border-radius: 5px;
+}
+
+.navbar-toggler {
+    border-color: aqua !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    min-height: 100vh;
+    background-color: #000;
+    overflow: hidden;
+}
+
+.hero-content {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.hero-text {
+    position: relative;
+    z-index: 10;
+    padding: 2rem;
+    max-width: 600px;
+    margin-left: 5%;
+}
+
+.hero-video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.vname {
+    color: rgb(136, 204, 244);
+    font-family: sans-serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.vpara {
+    color: rgb(136, 204, 244);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+}
+
+.bton {
+    background-color: rgb(16, 16, 90) !important;
+    color: aqua !important;
+    border: 2px solid aqua !important;
+    padding: 12px 30px !important;
+    font-weight: bold !important;
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bton:hover {
+    border-color: aquamarine !important;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);
+    transform: translateY(-2px);
+}
+
+/* First Section - 3 Steps */
+.fsection {
+    background: rgb(13, 13, 61);
+    padding: 4rem 0;
+}
+
+.heading {
+    color: rgb(20, 255, 243);
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.step-card {
+    background: black;
+    border: 4px ridge aqua;
+    padding: 2rem;
+    text-align: center;
+    height: 100%;
+    transition: all 0.3s ease;
+}
+
+.step-card:hover {
+    border-color: aquamarine;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    transform: translateY(-5px);
+}
+
+.step-card h3 {
+    color: rgb(0, 255, 247);
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.step-card p {
+    color: rgb(0, 183, 255);
+    font-weight: bolder;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Second Section - Identity Theft */
+.Ssection {
+    background: black;
+    padding: 3rem 0;
+}
+
+.Simg {
+    width: 100%;
+    max-width: 400px;
+    background-color: black;
+    border: 4px ridge aqua;
+    transition: all 0.3s ease;
+}
+
+.Simg:hover {
+    border-color: aquamarine;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.Sinfo {
+    background: transparent;
+    border: 1px ridge aqua;
+    padding: 2rem;
+}
+
+.Sih {
+    color: aqua;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.Spara {
+    color: rgb(0, 183, 255);
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    line-height: 1.6;
+}
+
+/* Second Part 2 Section - Cyberstalking */
+.Spsection {
+    background-color: black;
+    padding: 3rem 0;
+}
+
+.Spimg {
+    width: 100%;
+    max-width: 500px;
+    background-color: black;
+    border: 4px ridge aqua;
+    transition: all 0.3s ease;
+}
+
+.Spimg:hover {
+    border-color: aquamarine;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.Spinfo {
+    background: transparent;
+    border: 1px ridge aqua;
+    padding: 2rem;
+}
+
+.Spih {
+    color: aqua;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.Sppara {
+    color: rgb(0, 183, 255);
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+/* Third Section - What We Do */
+.insidediv {
+    background: rgb(13, 13, 61);
+    padding: 3rem 0;
+}
+
+.iddiv {
+    background-color: rgb(14, 14, 35);
+    padding: 2rem;
+    border: 2px ridge aqua;
+}
+
+.idh {
+    color: aqua;
+    font-family: sans-serif;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.idp {
+    color: aqua;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.asdimg {
+    width: 100%;
+    max-width: 350px;
+    border: 4px ridge aqua;
+    transition: all 0.3s ease;
+}
+
+.asdimg:hover {
+    border-color: aquamarine;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+/* Footer */
+.footer {
+    border: 2px solid rgb(55, 68, 74);
+    background-color: rgb(4, 7, 48);
+    margin-bottom: 0;
+}
+
+.foothead {
+    color: aqua;
+    text-decoration: underline;
+    background-color: rgb(32, 32, 88);
+    padding: 10px;
+    display: inline-block;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.pages-label {
+    color: rgb(0, 255, 183);
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.footer-links a {
+    color: rgb(150, 204, 255);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: rgb(4, 255, 121);
+}
+
+.footer-hr {
+    color: aqua;
+    border-top: 1px solid aqua;
+    margin: 1.5rem 0;
+}
+
+.footer-legal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    color: aquamarine;
+    font-size: 0.9rem;
+}
+
+.copyright {
+    color: rgb(0, 146, 146);
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+/* ==================== RESPONSIVE STYLES ==================== */
+
+/* Extra Large Devices (1200px and up) */
+@media (min-width: 1200px) {
+    .hero-text {
+        margin-left: 8%;
+    }
+    
+    .vname {
+        font-size: 3.5rem;
+    }
+    
+    .vpara {
+        font-size: 1.2rem;
+    }
+}
+
+/* Large Devices (992px to 1199px) */
+@media (max-width: 1199px) {
+    .hero-text {
+        margin-left: 3%;
+        max-width: 500px;
+    }
+    
+    .vname {
+        font-size: 2.5rem;
+    }
+    
+    .vpara {
+        font-size: 1rem;
+    }
+    
+    .hero-video {
+        width: 65%;
+    }
+}
+
+/* Medium Devices (768px to 991px) */
+@media (max-width: 991px) {
+    .navbar-brand {
+        font-size: 1.5rem !important;
+    }
+    
+    .nav-link {
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+    
+    .hero-content {
+        flex-direction: column;
+        min-height: auto;
+    }
+    
+    .hero-text {
+        position: relative;
+        margin: 0;
+        padding: 6rem 1.5rem 2rem;
+        max-width: 100%;
+        text-align: center;
+    }
+    
+    .hero-video {
+        position: relative;
+        width: 100%;
+        height: 400px;
+    }
+    
+    .vname {
+        font-size: 2.5rem;
+    }
+    
+    .vpara {
+        font-size: 1rem;
+    }
+    
+    .step-card {
+        margin-bottom: 1rem;
+    }
+    
+    .Simg, .Spimg, .asdimg {
+        max-width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .Sinfo, .Spinfo, .iddiv {
+        margin-top: 1.5rem;
+    }
+    
+    .footer-links {
+        justify-content: flex-start;
+        margin-top: 1rem;
+    }
+}
+
+/* Small Devices (576px to 767px) */
+@media (max-width: 767px) {
+    .navbar-brand {
+        font-size: 1.3rem !important;
+    }
+    
+    .hero-text {
+        padding: 5rem 1rem 1.5rem;
+    }
+    
+    .hero-video {
+        height: 300px;
+    }
+    
+    .vname {
+        font-size: 2rem;
+    }
+    
+    .vpara {
+        font-size: 0.95rem;
+    }
+    
+    .bton {
+        padding: 10px 25px !important;
+        font-size: 0.9rem;
+    }
+    
+    .heading {
+        font-size: 1.5rem;
+    }
+    
+    .step-card {
+        padding: 1.5rem;
+    }
+    
+    .step-card h3 {
+        font-size: 1.3rem;
+    }
+    
+    .Sih, .Spih, .idh {
+        font-size: 1.5rem;
+    }
+    
+    .Spara, .Sppara, .idp {
+        font-size: 1rem;
+    }
+    
+    .footer-links {
+        gap: 1rem;
+    }
+    
+    .footer-legal {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+    }
+}
+
+/* Extra Small Devices (575px and down) */
+@media (max-width: 575px) {
+    .navbar {
+        padding: 0.5rem;
+    }
+    
+    .navbar-brand {
+        font-size: 1.1rem !important;
+    }
+    
+    .hero-text {
+        padding: 4.5rem 0.75rem 1rem;
+    }
+    
+    .hero-video {
+        height: 250px;
+    }
+    
+    .vname {
+        font-size: 1.6rem;
+    }
+    
+    .vpara {
+        font-size: 0.9rem;
+    }
+    
+    .bton {
+        padding: 8px 20px !important;
+        font-size: 0.85rem;
+    }
+    
+    .heading {
+        font-size: 1.3rem;
+    }
+    
+    .step-card {
+        padding: 1.25rem;
+    }
+    
+    .step-card h3 {
+        font-size: 1.2rem;
+    }
+    
+    .step-card p {
+        font-size: 0.9rem;
+    }
+    
+    .Sih, .Spih, .idh {
+        font-size: 1.3rem;
+    }
+    
+    .Spara, .Sppara, .idp {
+        font-size: 0.9rem;
+    }
+    
+    .Sinfo, .Spinfo, .iddiv {
+        padding: 1.5rem;
+    }
+    
+    .foothead {
+        font-size: 1.2rem;
+    }
+    
+    .pages-label {
+        font-size: 1rem;
+    }
+    
+    .footer-links a {
+        font-size: 0.9rem;
+    }
+    
+    .copyright {
+        font-size: 0.8rem;
+    }
+}
+
+/* Very Small Devices (400px and down) */
+@media (max-width: 400px) {
+    .vname {
+        font-size: 1.4rem;
+    }
+    
+    .vpara {
+        font-size: 0.85rem;
+    }
+    
+    .hero-video {
+        height: 200px;
+    }
+    
+    .heading {
+        font-size: 1.1rem;
+    }
+    
+    .step-card {
+        padding: 1rem;
+    }
+    
+    .Sih, .Spih, .idh {
+        font-size: 1.1rem;
+    }
+}
+
+/* Landscape orientation for mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+    .hero-content {
+        min-height: auto;
+    }
+    
+    .hero-text {
+        padding-top: 5rem;
+    }
+    
+    .hero-video {
+        height: 300px;
+    }
+}
