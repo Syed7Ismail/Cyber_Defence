@@ -53,71 +53,65 @@ Feel free to reach out for further improvements or customization!
 
 Home Page:
 
-<img width="1906" height="922" alt="Cyber Squad1" src="https://github.com/user-attachments/assets/b57d7c94-bc0d-49a0-a192-1cf324570436" />
+<img width="1917" height="918" alt="Cyber Home1" src="https://github.com/user-attachments/assets/df6f7946-6cd1-432a-bde2-8b38f85f3db2" />
 
-<img width="1907" height="570" alt="Cyber Squad2" src="https://github.com/user-attachments/assets/e08f35c1-af6d-4cab-948d-94731491f9ab" />
+<img width="1920" height="926" alt="Cyber Home2" src="https://github.com/user-attachments/assets/0a3d9d52-27f1-468b-9fd6-583875ce8c32" />
 
-<img width="1904" height="924" alt="Cyber Squad3" src="https://github.com/user-attachments/assets/7dc6c563-7d80-4a96-a0a0-55d7cd1da964" />
+<img width="1920" height="916" alt="Cyber Home3" src="https://github.com/user-attachments/assets/b36e6ab7-28ff-4c69-b8ac-f93d46457035" />
 
-<img width="1909" height="924" alt="Cyber Squad4" src="https://github.com/user-attachments/assets/808d6f0f-ebbb-4fab-9d48-420a81e2476a" />
-
-<img width="1901" height="923" alt="Cyber Squad5" src="https://github.com/user-attachments/assets/8f252fa3-b3cb-4b41-a528-d8d37cf03cef" />
+<img width="1917" height="923" alt="Cyber Home4" src="https://github.com/user-attachments/assets/2b335d4c-51e2-48e2-a32c-ba16cbb37b36" />
 
 
 About Us:
 
-<img width="1903" height="929" alt="Cyber About1" src="https://github.com/user-attachments/assets/5758155a-a573-47c8-b659-c7020613ec12" />
+<img width="1920" height="928" alt="Cyber About1" src="https://github.com/user-attachments/assets/caecd19a-b39f-42fe-98db-5c498707d214" />
 
-<img width="1909" height="921" alt="Cyber About2" src="https://github.com/user-attachments/assets/93ab180b-bd0b-4b2d-a0a3-ed7603773a28" />
+<img width="1918" height="927" alt="Cyber About2" src="https://github.com/user-attachments/assets/ab16dfbc-41c2-4a86-b75c-7719869eee6d" />
 
-<img width="1905" height="928" alt="Cyber About3" src="https://github.com/user-attachments/assets/66ece419-84cd-48bb-9aca-3d1f6e4493b4" />
-
-<img width="1907" height="930" alt="Cyber About4" src="https://github.com/user-attachments/assets/fde76a05-a7ae-41f2-8eda-56d473e0cc76" />
+<img width="1920" height="927" alt="Cyber About3" src="https://github.com/user-attachments/assets/4e81e6a3-db59-4a8d-a77c-9c303db476b0" />
 
 
 Cyber Crimes:
 
-<img width="1905" height="929" alt="Cyber  Crimes1" src="https://github.com/user-attachments/assets/80fa263e-eb95-4abe-957f-192b6687afea" />
+<img width="1920" height="928" alt="Cyber Crime1" src="https://github.com/user-attachments/assets/485fba28-5e06-4044-b0d4-87a61480d2be" />
 
-<img width="1904" height="929" alt="Cyber  Crimes2" src="https://github.com/user-attachments/assets/7c9eb2b1-9d39-4b23-927a-7833e9ef9f90" />
+<img width="1920" height="925" alt="Cyber Crime2" src="https://github.com/user-attachments/assets/24546db6-4548-4fae-a843-183e4f12e4b6" />
 
-<img width="1909" height="934" alt="Cyber  Crimes3" src="https://github.com/user-attachments/assets/b92ba7f1-61fa-4c69-b2b9-127b1c944ea8" />
+<img width="1920" height="930" alt="Cyber Crime3" src="https://github.com/user-attachments/assets/a8f49cb9-2c0d-4460-9cfa-2a1c37e8acd2" />
 
-<img width="1906" height="925" alt="Cyber  Crimes4" src="https://github.com/user-attachments/assets/596bf76c-e5d3-4935-8ae9-6b6a879952cb" />
+<img width="1918" height="926" alt="Cyber Crime4" src="https://github.com/user-attachments/assets/063307cd-a97b-4b33-81e1-fe18c344122f" />
 
-<img width="1908" height="929" alt="Cyber  Crimes5" src="https://github.com/user-attachments/assets/06570ec8-7c3a-4194-8488-04b08470c049" />
+<img width="1920" height="924" alt="Cyber Crime5" src="https://github.com/user-attachments/assets/2dfecc0b-103c-42d5-b7e0-a08a5e453c0a" />
 
 
 Future Threats:
 
-<img width="1905" height="924" alt="Future Threats1" src="https://github.com/user-attachments/assets/e0fcdbb9-0367-427b-8c98-5cda5de9aec7" />
+<img width="1920" height="927" alt="Cyber Future1" src="https://github.com/user-attachments/assets/e8ea0e09-15de-4506-aae4-c1f8da193bf2" />
 
-<img width="1920" height="1080" alt="Future Threats2" src="https://github.com/user-attachments/assets/88fab4a8-b6cd-416d-be35-99cc46c6b993" />
+<img width="1920" height="1075" alt="Cyber Future2" src="https://github.com/user-attachments/assets/6e9d5e3b-474c-4be9-a0cd-94db20261288" />
 
-<img width="1904" height="924" alt="Future Threats3" src="https://github.com/user-attachments/assets/b9843a9c-dee1-4ec4-bf50-d57a10f35d3b" />
+<img width="1920" height="926" alt="Cyber Future3" src="https://github.com/user-attachments/assets/0865a4c5-7bd8-4e75-a632-943e45c291a3" />
 
-<img width="1908" height="928" alt="Future Threats4" src="https://github.com/user-attachments/assets/33c0b865-3a65-4c64-a2e8-c49b62e7b5fb" />
+<img width="1920" height="928" alt="Cyber Future4" src="https://github.com/user-attachments/assets/2a42d7f2-afb8-4f3d-8b1a-00987098ebfa" />
 
-<img width="1903" height="933" alt="Future Threats5" src="https://github.com/user-attachments/assets/30240582-a500-4eff-8844-92f6da38eba6" />
+<img width="1920" height="926" alt="Cyber Future5" src="https://github.com/user-attachments/assets/3d5d4a68-7066-4e04-924b-61bcb1946105" />
 
-<img width="1903" height="928" alt="Future Threats6" src="https://github.com/user-attachments/assets/d4ccdc90-71a8-463b-a64c-0122ddf4c370" />
-
-<img width="1904" height="930" alt="Future Threats7" src="https://github.com/user-attachments/assets/76c7238c-509b-4389-be48-4ca92a8df0cb" />
+<img width="1918" height="919" alt="Cyber Future6" src="https://github.com/user-attachments/assets/ddb93de3-669d-422f-a430-7282e3e82683" />
 
 
 Services:
 
-<img width="1905" height="930" alt="Services1" src="https://github.com/user-attachments/assets/9e191ce7-5df0-4b6e-8463-8229cefd6b30" />
+<img width="1920" height="929" alt="Cyber Services1" src="https://github.com/user-attachments/assets/9e7c0ac3-5c61-4722-9bf0-402f72f5629b" />
 
-<img width="1906" height="931" alt="Services2" src="https://github.com/user-attachments/assets/2076c32d-aad7-4e57-b0c2-9bb0ed87e7c7" />
+<img width="1920" height="926" alt="Cyber Services2" src="https://github.com/user-attachments/assets/aa7820a5-5984-40ed-9b3f-cc696e4559e9" />
 
-<img width="1904" height="928" alt="Services3" src="https://github.com/user-attachments/assets/d9cb38d3-99ca-4475-84cb-40ad49e8efc6" />
+<img width="1920" height="920" alt="Cyber Services3" src="https://github.com/user-attachments/assets/d0da0e37-b15b-4f53-bbb4-fe24fb448066" />
 
 
 Contact Page:
 
-<img width="1904" height="930" alt="Contact1" src="https://github.com/user-attachments/assets/3da9c268-c990-4cd6-b44f-5fc3c45f0b4d" />
+<img width="1920" height="929" alt="Cyber Contact1" src="https://github.com/user-attachments/assets/c5a51cf9-83a0-48c8-89b2-e539ca0ea922" />
 
-<img width="1905" height="933" alt="Contact2" src="https://github.com/user-attachments/assets/3efc0116-e840-457d-9935-a37b15291a2f" />
+<img width="1920" height="927" alt="Cyber Contact2" src="https://github.com/user-attachments/assets/6f640a8c-c213-48cd-a6c7-bb0af52de7a6" />
 
-<img width="1908" height="931" alt="Contact3" src="https://github.com/user-attachments/assets/59de49a6-36bd-480a-adf3-5b9fe753ada9" />
+<img width="1920" height="922" alt="Cyber Contact3" src="https://github.com/user-attachments/assets/5fec92e8-92ff-4ea2-aef9-f379c81e32dd" />
